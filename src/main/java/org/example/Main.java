@@ -13,7 +13,7 @@ import java.io.IOException;//builder.parse
 
 // java DOM parser:xml dosyasından verileri okuyacak yerleşik java kütüphanesi
 //xml dosyasını aktarırken kullanılan üç ana sınıf:DocumentBuilderFactory,DocumentBuilder,Document
-//xml dosyasını bir belge olarak iletmek için kullanacağımız şeyler.
+//xml dosyasını bir belge olarak iletmek için kullanacağımız şeyler
 public class Main {
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
         // Yeni bir nesnesi oluşturduk
